@@ -1,0 +1,12 @@
+{
+  "name": "membrane-driver-nanopool",
+  "version": "0.0.1",
+  "description": "Nanopool driver for Membrane",
+  "repository": "git@github.com:juancampa/membrane-driver-nanopool.git",
+  "author": "Juan Campa <juancampa@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
